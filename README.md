@@ -26,7 +26,7 @@ Reset Count: Easily reset daily water intake for a fresh start.
 
 Persistent Storage: All data is stored locally using SharedPreferences to maintain progress even after closing the app.
 
-🖼 Screenshots
+🖼 Screenshot
 
 <img width="261" height="551" alt="image" src="https://github.com/user-attachments/assets/6878fea9-2185-42cc-92ac-f61d27b5b05c" />
 
