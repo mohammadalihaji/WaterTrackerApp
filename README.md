@@ -1,34 +1,57 @@
-# Water Tracker App
+💧 Water Tracker App
 
-A simple and intuitive Android app to help users track their daily water intake and achieve their hydration goals.
+A simple and intuitive Android app to help users track their daily water intake and achieve hydration goals effortlessly.
 
----
 
-## 📝 Project Overview
 
-Water Tracker App allows users to:
+📝 Project Overview
 
-- Track the number of glasses of water consumed.
-- Set a custom glass volume in milliliters.
-- Monitor progress towards a daily goal of **2 liters of water**.
-- Get a congratulatory message upon reaching the daily goal.
-- Reset daily count easily.
-- Visualize water intake using a circular progress bar.
+The Water Tracker App is designed to help users maintain proper hydration by tracking the number of glasses of water consumed daily. Users can customize their glass size, monitor their daily intake, and stay motivated with visual progress indicators.
 
-This app is built using **Kotlin** and **Android Studio**, with a focus on user-friendly UI and persistent storage using **SharedPreferences**.
+This app is developed using Kotlin in Android Studio, focusing on a clean, user-friendly interface and persistent storage via SharedPreferences.
 
----
 
-## ⚙ Features
 
-- **Add Water**: Add one glass at a time based on user-defined volume.
-- **Custom Glass Volume**: Users can set their preferred glass volume (e.g., 100ml, 250ml).
-- **Daily Goal**: Tracks progress toward the 2-liter daily hydration goal.
-- **Progress Bar**: Circular progress bar updates in real-time.
-- **Reset Functionality**: Reset the water count and total volume for a new day.
-- **Persistent Storage**: Data saved locally using SharedPreferences so progress is not lost on app close.
+⚙ Features
 
----
+Add Water: Add a glass of water with a single tap.
 
-## 📂 Project Structure
+Custom Glass Volume: Set your preferred glass volume (e.g., 100ml, 250ml).
 
+Daily Goal: Monitor progress toward the daily hydration goal (default: 2 liters).
+
+Progress Visualization: Circular progress bar updates in real-time for instant feedback.
+
+Reset Count: Easily reset daily water intake for a fresh start.
+
+Persistent Storage: All data is stored locally using SharedPreferences to maintain progress even after closing the app.
+
+🖼 Screenshots
+
+<img width="261" height="551" alt="image" src="https://github.com/user-attachments/assets/6878fea9-2185-42cc-92ac-f61d27b5b05c" />
+
+
+
+
+🚀 How to Run
+
+Clone the repository:
+
+git clone https://github.com/mohammadalihaji/WaterTrackerApp.git
+
+
+Open the project in Android Studio.
+
+Sync Gradle and build the project.
+
+Run the app on an emulator or physical Android device.
+
+
+
+🛠 Technologies Used
+
+Kotlin – Programming language
+
+Android Studio – IDE for Android development
+
+ConstraintLayout & Material Components – UI design
