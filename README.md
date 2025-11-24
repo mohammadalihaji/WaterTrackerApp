@@ -1,4 +1,4 @@
-💧 Water Tracker App
+![WhatsApp Image 2025-11-24 at 12 33 35_1e3e605d](https://github.com/user-attachments/assets/0de3f0c5-c3c8-4dc1-9b1f-b5428eafbb73)💧 Water Tracker App
 
 A simple and intuitive Android app to help users track their daily water intake and achieve hydration goals effortlessly.
 
@@ -28,13 +28,9 @@ Persistent Storage: All data is stored locally using SharedPreferences to mainta
 
 🖼 Screenshot
 
+<img width="393" height="826" alt="image" src="https://github.com/user-attachments/assets/711cef68-786e-4c32-b26d-3c020afac0a6" />
 
-<img width="261" height="551" alt="image" src="https://github.com/user-attachments/assets/6878fea9-2185-42cc-92ac-f61d27b5b05c" />
-
-
-
-<img width="261" height="551" alt="image" src="https://github.com/user-attachments/assets/6878fea9-2185-42cc-92ac-f61d27b5b05c" />
-
+![WhatsApp Image 2025-11-18 at 06 58 36_ef3a7191](https://github.com/user-attachments/assets/b7c4368d-d1d4-4163-ae9a-a43298b70890)
 
 
 🚀 How to Run
