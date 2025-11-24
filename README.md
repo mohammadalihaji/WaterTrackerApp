@@ -28,8 +28,11 @@ Persistent Storage: All data is stored locally using SharedPreferences to mainta
 
 🖼 Screenshot
 
+
 <img width="261" height="551" alt="image" src="https://github.com/user-attachments/assets/6878fea9-2185-42cc-92ac-f61d27b5b05c" />
 
+
+<img width="261" height="551" alt="image" src="https://github.com/user-attachments/assets/6878fea9-2185-42cc-92ac-f61d27b5b05c" />
 
 
 
