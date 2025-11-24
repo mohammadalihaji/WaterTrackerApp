@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-11-24 at 12 33 35_1e3e605d](https://github.com/user-attachments/assets/0de3f0c5-c3c8-4dc1-9b1f-b5428eafbb73)💧 Water Tracker App
+💧 Water Tracker App
 
 A simple and intuitive Android app to help users track their daily water intake and achieve hydration goals effortlessly.
 
